@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.exe
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\bin\Debug\net5.0\0003.Heroes of Code and Logic VII.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\refint\0003.Heroes of Code and Logic VII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\0003.Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.Heroes of Code and Logic VII\obj\Debug\net5.0\ref\0003.Heroes of Code and Logic VII.dll

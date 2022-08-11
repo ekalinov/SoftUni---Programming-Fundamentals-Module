@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.exe
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.deps.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\refint\05.MultiplyBigNumber.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\05.MultiplyBigNumber\obj\Debug\net5.0\ref\05.MultiplyBigNumber.dll

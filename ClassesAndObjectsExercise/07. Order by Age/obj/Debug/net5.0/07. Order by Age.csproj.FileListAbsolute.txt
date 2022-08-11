@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.exe
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.deps.json
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.json
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.dll
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.pdb
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.dll
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\refint\07. Order by Age.dll
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.pdb
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ClassesAndObjectsExercise\07. Order by Age\obj\Debug\net5.0\ref\07. Order by Age.dll

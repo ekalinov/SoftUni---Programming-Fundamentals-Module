@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.exe
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.dll
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\bin\Debug\net5.0\sdafgadghda.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.dll
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\refint\sdafgadghda.dll
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\sdafgadghda.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\sdafgadghda\obj\Debug\net5.0\ref\sdafgadghda.dll

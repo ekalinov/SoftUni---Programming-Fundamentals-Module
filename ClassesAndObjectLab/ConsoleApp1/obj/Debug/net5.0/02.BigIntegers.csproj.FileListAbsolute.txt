@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.exe
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.deps.json
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.runtimeconfig.json
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\02.BigIntegers.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\02.BigIntegers.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\02.BigIntegers.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\02.BigIntegers.dll

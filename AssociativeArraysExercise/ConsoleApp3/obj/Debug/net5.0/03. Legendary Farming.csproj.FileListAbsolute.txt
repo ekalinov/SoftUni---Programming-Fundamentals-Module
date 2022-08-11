@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.exe
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.deps.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\bin\Debug\net5.0\03. Legendary Farming.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\refint\03. Legendary Farming.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\03. Legendary Farming.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp3\obj\Debug\net5.0\ref\03. Legendary Farming.dll

@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.exe
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.dll
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\bin\Debug\net5.0\Problem 3 - Followers.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.dll
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\refint\Problem 3 - Followers.dll
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\Problem 3 - Followers.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\Problem 3 - Followers\obj\Debug\net5.0\ref\Problem 3 - Followers.dll

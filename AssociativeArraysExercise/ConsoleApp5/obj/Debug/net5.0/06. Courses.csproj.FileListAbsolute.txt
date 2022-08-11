@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.exe
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.deps.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\bin\Debug\net5.0\06. Courses.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\refint\06. Courses.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp5\obj\Debug\net5.0\ref\06. Courses.dll

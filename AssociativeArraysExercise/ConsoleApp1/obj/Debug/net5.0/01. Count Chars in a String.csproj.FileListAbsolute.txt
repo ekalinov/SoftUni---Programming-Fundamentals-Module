@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.exe
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.deps.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\bin\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\refint\01. Count Chars in a String.dll
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\01. Count Chars in a String.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\AssociativeArraysExercise\ConsoleApp1\obj\Debug\net5.0\ref\01. Count Chars in a String.dll

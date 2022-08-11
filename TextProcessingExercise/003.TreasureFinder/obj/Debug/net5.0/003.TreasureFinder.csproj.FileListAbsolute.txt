@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.exe
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.deps.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.runtimeconfig.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\bin\Debug\net5.0\003.TreasureFinder.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\refint\003.TreasureFinder.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\003.TreasureFinder.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\003.TreasureFinder\obj\Debug\net5.0\ref\003.TreasureFinder.dll

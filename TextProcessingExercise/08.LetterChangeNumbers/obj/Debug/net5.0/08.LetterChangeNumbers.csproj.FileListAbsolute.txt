@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.exe
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.deps.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.runtimeconfig.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\bin\Debug\net5.0\08.LetterChangeNumbers.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\refint\08.LetterChangeNumbers.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\08.LetterChangeNumbers.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\08.LetterChangeNumbers\obj\Debug\net5.0\ref\08.LetterChangeNumbers.dll

@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.exe
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.deps.json
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.runtimeconfig.json
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\bin\Debug\net5.0\03. Songs.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\refint\03. Songs.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\03. Songs.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\03. Songs\obj\Debug\net5.0\ref\03. Songs.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAh1gNGm7MJTva5c0XGh0KGAMcfNk4RmBSlbg+10ONCaQ0DWkpRbc09vKJlpysaRTYWfHT6Ov1hvAqHcPb4mlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OMEN\\source\\repos\\AssociativeArraysExercise\\ConsoleApp5\\06. Courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

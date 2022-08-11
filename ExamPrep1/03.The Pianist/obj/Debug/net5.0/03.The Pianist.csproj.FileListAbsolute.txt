@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.exe
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.dll
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\bin\Debug\net5.0\03.The Pianist.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.dll
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\refint\03.The Pianist.dll
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\03.The Pianist.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\03.The Pianist\obj\Debug\net5.0\ref\03.The Pianist.dll

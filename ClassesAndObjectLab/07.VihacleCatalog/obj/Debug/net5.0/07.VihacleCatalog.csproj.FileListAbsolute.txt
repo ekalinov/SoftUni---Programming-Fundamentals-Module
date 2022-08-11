@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.exe
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.deps.json
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.runtimeconfig.json
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\bin\Debug\net5.0\07.VihacleCatalog.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\refint\07.VihacleCatalog.dll
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.pdb
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\07.VihacleCatalog.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ConsoleApp1\07.VihacleCatalog\obj\Debug\net5.0\ref\07.VihacleCatalog.dll

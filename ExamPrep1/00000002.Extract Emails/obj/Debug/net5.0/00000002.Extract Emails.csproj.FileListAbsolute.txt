@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.exe
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.dll
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\bin\Debug\net5.0\00000002.Extract Emails.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.dll
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\refint\00000002.Extract Emails.dll
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\00000002.Extract Emails.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\00000002.Extract Emails\obj\Debug\net5.0\ref\00000002.Extract Emails.dll

@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.exe
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.deps.json
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.runtimeconfig.json
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.dll
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\bin\Debug\net5.0\00.Demo.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.dll
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\refint\00.Demo.dll
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.pdb
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\00.Demo.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\AssociativeArraysLab\00.Demo\obj\Debug\net5.0\ref\00.Demo.dll

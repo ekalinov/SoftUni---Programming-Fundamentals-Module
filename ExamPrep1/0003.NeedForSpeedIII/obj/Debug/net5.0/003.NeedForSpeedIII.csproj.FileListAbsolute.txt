@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.exe
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\bin\Debug\net5.0\003.NeedForSpeedIII.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\refint\003.NeedForSpeedIII.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\003.NeedForSpeedIII.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0003.NeedForSpeedIII\obj\Debug\net5.0\ref\003.NeedForSpeedIII.dll

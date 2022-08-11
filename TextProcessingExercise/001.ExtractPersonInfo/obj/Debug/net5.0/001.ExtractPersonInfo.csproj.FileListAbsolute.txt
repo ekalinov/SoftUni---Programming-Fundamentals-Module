@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.exe
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.deps.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.runtimeconfig.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\bin\Debug\net5.0\001.ExtractPersonInfo.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\refint\001.ExtractPersonInfo.dll
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.pdb
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\001.ExtractPersonInfo.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\TextProcessingExercise\001.ExtractPersonInfo\obj\Debug\net5.0\ref\001.ExtractPersonInfo.dll

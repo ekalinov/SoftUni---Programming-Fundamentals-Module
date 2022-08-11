@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.exe
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.deps.json
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.runtimeconfig.json
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.dll
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\bin\Debug\net5.0\00001. LAdybug.pdb
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.dll
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\refint\00001. LAdybug.dll
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.pdb
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\00001. LAdybug.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\RegularExpressionLab\00001. LAdybug\obj\Debug\net5.0\ref\00001. LAdybug.dll

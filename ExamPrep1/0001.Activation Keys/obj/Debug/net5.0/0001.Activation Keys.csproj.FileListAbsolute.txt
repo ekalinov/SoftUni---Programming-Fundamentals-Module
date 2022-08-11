@@ -1,0 +1,16 @@
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.exe
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.deps.json
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.runtimeconfig.json
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\bin\Debug\net5.0\0001.Activation Keys.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\refint\0001.Activation Keys.dll
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.pdb
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\0001.Activation Keys.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ExamPrep1\0001.Activation Keys\obj\Debug\net5.0\ref\0001.Activation Keys.dll
